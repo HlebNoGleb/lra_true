@@ -51,6 +51,9 @@ body{
 	background-position: center 0;
   -webkit-background-position: center 0;
 }
+i{
+  padding: 20px;
+}
 
 .mb_parallax_overlay {
   height: 60vh;
