@@ -49,6 +49,7 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
 	background-position: center 0;
+  -webkit-background-position: center 0;
 }
 
 .mb_parallax_overlay {
@@ -63,6 +64,12 @@ body{
 
 #mb_parallax_two {
   background-image: url(../img/870x576x2.jpg);
+}
+#mb_parallax_three {
+  background-image: url(../img/870x576x2.jpg);
+}
+.text{
+  font-size: 20px;
 }
 h1 {
 	color:#fff;
