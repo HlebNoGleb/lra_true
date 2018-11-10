@@ -2,9 +2,9 @@
 var userFeed = new Instafeed({
   target: 'carousel',
   get: 'user',
-  userId: '330573068',
+  userId: '1963914598',
   // clientId: 'e52feabf84334ac78c8a62660015032e',
-  accessToken: '330573068.1677ed0.4283785f60014358b68e68bdb58728ac',
+  accessToken: '1963914598.1677ed0.dba5c0e658374782b0b9f0de9e7227eb',
   resolution: 'standard_resolution',
   template: '<span class="post" sauce="{{link}}" cap="{{caption}}"><img src="{{image}}" /><h2 class="post-cap"><span>{{caption}}</span></h2></span>',
   sortBy: 'most-recent',
