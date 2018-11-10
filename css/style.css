@@ -54,9 +54,7 @@ body{
   -webkit-background-repeat: no-repeat;
   -webkit-background-position: center 0;
 }
-i{
-  padding: 20px;
-}
+
 
 .mb_parallax_overlay {
   height: 60vh;
@@ -72,7 +70,7 @@ i{
   background-image: url(../img/870x576x2.jpg);
 }
 #mb_parallax_three {
-  background-image: url(../img/870x576x2.jpg);
+  background-image: url(../img/CU2_wvaoBog.jpg);
 }
 .text{
   font-size: 20px;
