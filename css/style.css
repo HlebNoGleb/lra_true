@@ -42,8 +42,8 @@ body{
 	background-color: #6d6b69;
 }
 .mb_parallax_container {
-  height: 100vh;
-  width: 100vw;
+  height: 60vh;
+  width: 60vw;
   padding-top: 20vh;
   background-attachment: fixed;
   background-size: cover;
@@ -54,13 +54,11 @@ body{
   -webkit-background-repeat: no-repeat;
   -webkit-background-position: center 0;
 }
-
-
-.mb_parallax_overlay {
-  height: 60vh;
-  width: 60vw;
+/*.mb_parallax_overlay {
+  height: 40vh;
+  width: 40vw;
   margin: auto;
-}
+}*/
 
 #mb_parallax_one {
   background-image: url(../img/8s1wDGsu2rs.png);
